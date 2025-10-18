@@ -1,5 +1,3 @@
-# Recommendation-Letter
-
 # Recommendation Letters
 
 A repository to display my professional recommendation letters during internship and job recruitment.
